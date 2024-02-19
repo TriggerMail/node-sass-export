@@ -1,5 +1,5 @@
 {
-  "name": "node-sass-export",
+  "name": "@triggermail/node-sass-export",
   "version": "0.0.8",
   "description": "lightweight extension that allows you to export an encoded Sass variables (map, list, etc) into an external JSON file",
   "main": "index.js",
